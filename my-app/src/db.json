@@ -1,0 +1,24 @@
+{
+    "users":
+[
+    {
+      "id": "1",
+      "title": "House Rent",
+      "price": "250",
+      "date": "Tue Nov 10 2023 13:58:00 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "2",
+      "title": "Food",
+      "price": "20",
+      "date": "Tue Nov 10 2023 13:58:00 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "3",
+      "title": "School",
+      "price": "120",
+      "date": "Tue Nov 10 2023 13:58:00 GMT+0530 (India Standard Time)"
+    }
+  ]
+}
+
